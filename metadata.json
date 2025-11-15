@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Script to Prompt Generator",
+  "description": "An interface to generate detailed video prompts from a script, style keywords, and visual references. It helps creators turn written content into visual instructions for AI video generation.",
+  "requestFramePermissions": []
+}
